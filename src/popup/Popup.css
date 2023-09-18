@@ -36,3 +36,24 @@ a {
     max-width: none;
   }
 }
+
+/* Popup.css */
+.list-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.radio-button {
+  margin-right: 10px;
+}
+
+.date-text {
+  flex-grow: 1;
+}
+
+.delete-button {
+  flex-shrink: 0;
+}
+
+
